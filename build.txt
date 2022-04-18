@@ -1,3 +1,0 @@
-displayName = Icysnowman Mod
-author = NaiveStorm
-version = 0.0.1

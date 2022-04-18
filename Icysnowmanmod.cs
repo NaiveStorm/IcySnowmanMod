@@ -1,8 +1,8 @@
 using Terraria.ModLoader;
 
-namespace Icysnowmanmod
+namespace IcysnowmanMod
 {
-	public class Icysnowmanmod : Mod
+	public class IcysnowmanMod : Mod
 	{
 	}
 }

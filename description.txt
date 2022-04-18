@@ -1,20 +1,9 @@
-content mod about the epic streamer icysnowman
+Icysnowman Mod is a pretty cool mod, it does...this. Modify this file with a description of your mod.
 
-thank you to:
+special thanks to these people for helping me:
 
-the one who came up with this:
-NaiveStorm
-
-programmers:
-NaiveStorm
-Pbone(hopefully)
-
-designers:
-
-Onatron[GD]
+Icysnowman
 Mikeytheop
 Nxtxriety
-
-
-idiot:
-Icysnowman
+Onatron
+i will put more trust me

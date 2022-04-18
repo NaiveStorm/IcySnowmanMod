@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Icysnowmanmod.Items
+namespace IcysnowmanMod.Items
 {
 	public class get_real : ModItem
 	{

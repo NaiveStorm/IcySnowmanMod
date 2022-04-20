@@ -1,3 +1,0 @@
-displayName = The Icysnowman's Mod
-author = Icysnowman's Discord Server
-version = 0.0.0.1
